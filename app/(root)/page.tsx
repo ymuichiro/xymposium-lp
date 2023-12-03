@@ -35,8 +35,7 @@ export default async function IndexPage() {
         <div className="flex flex-col justify-center text-center md:text-left gap-10 lg:py-12 lg:text-left w-full lg:w-5/12 xl:py-24">
           <H2>What&lsquo;s in Xymposium?</H2>
           <p>
-            2023年12月19日（火）に東京エディション虎ノ門において、Symbol/XYM のシンポジウム &quot;Xymposium&quot;
-            を開催することが発表がされました。 こちらのコミュニティ向けのサイドイベントとして &quot;Community
+            2023年12月19日（火）に、Symbolコアチームメンバーを招待し、コミュニティ向けのサイドイベント &quot;Community
             Xymposium&quot; を開催し、Symbol/NEM の今とこれからをお届け致します。
           </p>
         </div>
@@ -44,7 +43,7 @@ export default async function IndexPage() {
           <Image
             loading="eager"
             className="rounded-lg shadow-lg animate-in"
-            src={TokyoEditionToranomon}
+            src={ShinjyukuGOXMTN}
             alt="Xymposium 虎ノ門 2023 バナー"
             width={1024}
           />
@@ -286,7 +285,7 @@ export default async function IndexPage() {
                 "Xymposium はSymbol/NEMホルダー、ファンのためのシンポジウムであることから、SymbolウォレットとNEMウォレットをお持ちの方とさせていただきます。また、当日参加された方へご登録いただいたSymbolウォレットに入場券となる『チケットNFT』を送信させていただきます。",
             },
             {
-              question: "東京エディション虎ノ門会場での Xymposium に参加できますか？",
+              question: "XYMやXEMは持っていませんが、 Xymposium に参加できますか？",
               answer:
                 "Xymposium はSymbol/NEMホルダー、ファンのためのシンポジウムであることから、SymbolウォレットとNEMウォレットをお持ちの方とさせていただきます。また、当日参加された方へご登録いただいたSymbolウォレットに入場券となる『チケットNFT』を送信させていただきます。",
             },
