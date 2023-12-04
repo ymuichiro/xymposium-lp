@@ -1,7 +1,7 @@
 import HatchetIcon from "@/assets/images/hatchet.png";
 import NemtusIcon from "@/assets/images/nemtus.png";
 import OpeningLineIcon from "@/assets/images/openingline.jpg";
-import TokyoEditionToranomon from "@/assets/tokyo-edition-toranomon.jpeg";
+import ShinjyukuGOXMTN from "@/assets/tokyo-edition-toranomon.jpeg";
 import InViewFadeIn from "@/components/atom/moleculs/inview-fadein";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
@@ -282,12 +282,12 @@ export default async function IndexPage() {
             {
               question: "参加に条件はありますか？",
               answer:
-                "Xymposium はSymbol/NEMホルダー、ファンのためのシンポジウムであることから、SymbolウォレットとNEMウォレットをお持ちの方とさせていただきます。また、当日参加された方へご登録いただいたSymbolウォレットに入場券となる『チケットNFT』を送信させていただきます。",
+                "Xymposium はSymbol/NEMホルダー、ファンのためのシンポジウムであることから、SymbolウォレットとNEMウォレットをお持ちの方とさせていただきます。また、当日参加された方へご登録いただいたSymbolウォレットに後日『参加記念NFT』を送信させていただきます。",
             },
             {
               question: "XYMやXEMは持っていませんが、 Xymposium に参加できますか？",
               answer:
-                "Xymposium はSymbol/NEMホルダー、ファンのためのシンポジウムであることから、SymbolウォレットとNEMウォレットをお持ちの方とさせていただきます。また、当日参加された方へご登録いただいたSymbolウォレットに入場券となる『チケットNFT』を送信させていただきます。",
+                "Xymposium はSymbol/NEMホルダー、ファンのためのシンポジウムであることから、SymbolウォレットとNEMウォレットをお持ちの方とさせていただきます。また、当日参加された方へご登録いただいたSymbolウォレットに後日『参加記念NFT』を送信させていただきます。",
             },
             {
               question: "参加条件である 100xym の保有は取引所アカウントでも良いですか？",
